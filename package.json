@@ -34,7 +34,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "apidoc-core": "~0.8.2",
+    "apidoc-core": "git+https://github.com/mbush92/apidoc-core.git",
     "commander": "^2.19.0",
     "fs-extra": "^7.0.0",
     "lodash": "^4.17.10",
